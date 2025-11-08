@@ -1,8 +1,11 @@
 # SOPEA - SecondOrderParametricEigenvalueAssignment
 This repository provides the code for parametric eigenvalue assignment for second order systems.
+
 (Zenodo to this repository: https://doi.org/10.5281/zenodo.15211961)
+
 Originally presented in
 https://doi.org/10.1016/j.ymssp.2025.113372
+
 Newest version is submitted for revision
 
 The "matlab_code" folder contains matlab code. Therein
